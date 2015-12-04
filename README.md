@@ -1,2 +1,6 @@
 # randomtimes
-gerador de aleatorio de times
+Gerador Aleatorio de Times
+# Dependência
+  linux:sudo apt-get install python-termcolor
+# Execulção
+  python qtd_times
